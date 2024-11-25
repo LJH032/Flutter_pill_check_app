@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:pill_check_app/InformationScreen.dart';
 
+
 class HomeScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
